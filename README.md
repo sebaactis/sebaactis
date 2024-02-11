@@ -5,12 +5,19 @@
 ### About Me
 
 ➪ I'm 25 years old, and I'm from Buenos Aires Argentina.
+
 ➪ I'm MERN Full Stack Developer and .NET Developer.
+
 ➪ I'm passionate about technology. I found in software development my place in the world and what I want my profession to be.
+
 ➪ I believe that with development we can create ideal experiences and products.
+
 ➪ I like to be constantly learning new knowledge.
 
 ### Technologies
+
+
+
 
 ![Image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
