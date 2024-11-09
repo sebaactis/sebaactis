@@ -6,7 +6,7 @@
 
 ➪ I'm 26 years old, and I'm from Buenos Aires Argentina.
 
-➪ I'm MERN Full Stack Developer and .NET Developer.
+➪ I'm MERN and .NET Full Stack Developer
 
 ➪ I'm passionate about technology. I found in software development my place in the world and what I want my profession to be.
 
